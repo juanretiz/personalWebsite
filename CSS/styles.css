@@ -1,0 +1,28 @@
+body{
+  background-color: #29435c;
+}
+
+div{
+  height:500px;
+  background-color: #29435c;
+}
+
+.title_Name{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 75px;
+  text-align: center;
+  color: #d1d4c9;
+  margin-top: 0;
+  padding: 75px;
+}
+.top-container{
+  background-image: url("../Images/Leaves.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:400px;
+  width:100%;
+}
+.nav-link{
+  color:  #d1d4c9;
+}
